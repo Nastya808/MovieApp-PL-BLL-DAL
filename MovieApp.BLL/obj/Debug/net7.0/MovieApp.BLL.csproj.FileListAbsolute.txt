@@ -1,0 +1,15 @@
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.csproj.AssemblyReference.cache
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.AssemblyInfoInputs.cache
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.AssemblyInfo.cs
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.csproj.CoreCompileInputs.cache
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/bin/Debug/net7.0/MovieApp.BLL.deps.json
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/bin/Debug/net7.0/MovieApp.BLL.dll
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/bin/Debug/net7.0/MovieApp.BLL.pdb
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/bin/Debug/net7.0/MovieApp.DAL.dll
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/bin/Debug/net7.0/MovieApp.DAL.pdb
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.csproj.CopyComplete
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.dll
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/refint/MovieApp.BLL.dll
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/MovieApp.BLL.pdb
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.BLL/obj/Debug/net7.0/ref/MovieApp.BLL.dll

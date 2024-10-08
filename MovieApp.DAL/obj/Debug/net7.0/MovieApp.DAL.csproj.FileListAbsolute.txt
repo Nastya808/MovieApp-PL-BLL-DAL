@@ -1,0 +1,12 @@
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/bin/Debug/net7.0/MovieApp.DAL.deps.json
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/bin/Debug/net7.0/MovieApp.DAL.dll
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/bin/Debug/net7.0/MovieApp.DAL.pdb
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/MovieApp.DAL.csproj.AssemblyReference.cache
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/MovieApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/MovieApp.DAL.AssemblyInfoInputs.cache
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/MovieApp.DAL.AssemblyInfo.cs
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/MovieApp.DAL.csproj.CoreCompileInputs.cache
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/MovieApp.DAL.dll
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/refint/MovieApp.DAL.dll
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/MovieApp.DAL.pdb
+/Users/nastyaergenova/Desktop/MovieApp/MovieApp.DAL/obj/Debug/net7.0/ref/MovieApp.DAL.dll
